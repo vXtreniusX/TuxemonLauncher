@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="Logo">
+    <file>750px-Tuxemon-banner (smaller).png</file>
+    <file>750px-Tuxemon-banner (small).png</file>
+    <file>750px-Tuxemon-banner.png</file>
+  </qresource>
+</RCC>
